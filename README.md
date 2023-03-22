@@ -1,21 +1,13 @@
 <div>
-<img src="./img/Profile.png" width="300" align="right" />
-<br/>
-<img src="./img/AboutMe-elaina.png" width="500" />
-<br/>
 <br/>
   
-- Name **Reidho Satria**
+- Name **Nyaru Toru**
 
-- Live in **Palembang, Indonesia**
+- Live in **Sakon Nakon, Thailand**
 
-- Studying [***Computer And Network Engineering***](https://smkn4palembang.sch.id/)
+- Studying [***Computer And Development***]()
 
-- Good with **Javascript** , **Typescript** , **PHP** , **Bash** , **CSS** , **HTML** and **Python**
-
-- Have high experience with **Photoshop** and **CorelDRAW**
-  
-- Familiar with **Debian**, **Ubuntu**, **Fedora**, **Arch**, **Void** and **OpenSUSE**
+- Good with **Javascript** , **Typescript** , **Java** , **Bash** , **PHP** , **HTML** and **Python**
 
 - Understand 日本語 (N5), Bahasa (Native), and English (Fluent)
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
