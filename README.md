@@ -9,7 +9,7 @@
 
 - Good with **Javascript** , **Typescript** , **Java** , **Bash** , **PHP** , **HTML** and **Python**
 
-- Understand 日本語 (N5), Bahasa (Native), and English (Fluent)
+- Understand Thai (Native), and English (Fluent)
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
 <br/>
 <img src="./img/Repo-elaina.png" width="500" />
