@@ -5,7 +5,7 @@
 
 - Live in **Sakon Nakon, Thailand**
 
-- Studying [***Computer And Development***]()
+- Studying [***Computer And Development***]
 
 - Good with **Javascript** , **Typescript** , **Java** , **Bash** , **PHP** , **HTML** and **Python**
 
