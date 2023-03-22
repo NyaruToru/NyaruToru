@@ -16,17 +16,6 @@
 <br/>
 <br/>
   
-- 📗 [***Elliottophellia/ayano***](https://github.com/Elliottophellia/ayano) <br/>
-  A multipurpose bot for anything with 69 commands!
-- 📘 [***Elliottophellia/kyoko***](https://github.com/Elliottophellia/kyoko) <br/>
-  Random anime pictures and quotes API, Toshino Kyoko.
-- 📙 [***Elliottophellia/ophellia***](https://github.com/Elliottophellia/ophellia) <br/>
-  A simple webshell build in PHP 7.4 for penetration testing and educational purposes only.
-- 📒 [***Elliottophellia/mocha***](https://github.com/Elliottophellia/mocha) <br/>
-  A discord selfbot designed to bumping disboard.org every 2 hours.
-
-<br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
   
 <sub> *“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina* </sub>
 <!--
