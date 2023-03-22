@@ -9,5 +9,5 @@
 
 - Good with **Javascript** , **Typescript** , **Java** , **Bash** , **PHP** , **HTML** and **Python**
 
-- Understand Thai (Native), and English (Fluent)
+- Understand Thai (Native), and English (Little)
 </div>
